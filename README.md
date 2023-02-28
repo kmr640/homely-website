@@ -1,6 +1,7 @@
 # homely-website
 Free to code website
 
+![homely](https://github.com/kmr640/homely-website/blob/main/_homely/example/_Homely%20website.png)
 
 
 
